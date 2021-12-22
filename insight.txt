@@ -1,0 +1,64 @@
+ng add @angular/material   
+npm i angular-gauge
+
+To generate components:
+ng g c parent           <- ng generate component componentName
+
+To create http service:
+ng g s http
+--------------------------------------------------------------------------------
+Check version of typescript:
+tsc -v
+
+--------------------------------------------------------------------------------
+install or uninstall typescript specific version
+npm install typescript@4.4.2 -g
+npm uninstall typescript -g
+
+--------------------------------------------------------------------------------
+Installed 'rxjs'
+npm install rxjs
+
+-------------------- if rxjs gives problems then do this --------------------
+simple use this command in order to delete the plugin
+npm uninstall --save rxjs
+npm uninstall --save rxjs-compat
+
+and then run this to reinstall
+npm install --save rxjs
+npm install --save rxjs-compat
+
+ABOVE THING TOO DIDN't work so always roll back to last year's version | 
+can check it from some previous year stable github project or simple net search
+
+
+--------------------------------------------------------------------------------
+to add diff diff headers to diff diff types of request we create interceptors
+
+
+--------------------------------------------------------------------------------
+Pending:
+home component mat-field styling
+significance of back ticks
+subscribing to a service
+caching a routesubscription significance and how it works
+
+--------------------------------------------------------------------------------
+
+
+
+include:
+pagination or infinite scrolling
+check how the state was visible in react spm trello project
+that yt tutorial (https://www.youtube.com/watch?v=AAu8bjj6-UI) 32:00
+
+
+
+Website:
+can add an awesome quote at the beginning of the blog and u forgot to add stickers and gifs
+can change the logo to some smiling emoji as people are attracted to smiley things
+
+
+
+
+
