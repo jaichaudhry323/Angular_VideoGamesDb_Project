@@ -1,5 +1,16 @@
 # NgVideoGameDb
 
+## Screenshots: 😎
+![image](https://user-images.githubusercontent.com/42890838/147112472-3d4a1fb5-2d4f-4876-86ad-09428c584a36.png)
+
+![image](https://user-images.githubusercontent.com/42890838/147112612-206980e9-f96e-4cc6-86ab-494245b19d81.png)
+
+![image](https://user-images.githubusercontent.com/42890838/147112651-d2ccb273-8a4b-448d-bd93-c620352b1876.png)
+
+![image](https://user-images.githubusercontent.com/42890838/147112764-c488a33c-a077-4a4c-bdd4-9e6b120d8036.png)
+
+
+## About:
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
 ## Development server
